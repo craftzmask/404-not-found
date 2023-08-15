@@ -8,6 +8,10 @@
 
 <div align="center">
   <h3>
+    <a href="https://not-found-f008a.web.app/">
+      Demo
+    </a>
+    <span> | </span>
     <a href="https://github.com/craftzmask/404-not-found">
       Solution
     </a>
@@ -34,15 +38,15 @@
 
 #### Main Page
 
-![main-page](./main-page.png)
+![main-page](./public/main-page.png)
 
 #### Mobile Page
-![mobile-page](./mobile-page.png)
+![mobile-page](./public/mobile-page.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-  - Currently, I don't have demo link for it.
+  - [Click here to see](https://not-found-f008a.web.app/)
 - What was your experience?
   - Even though this is just a simple web page but building it from scratch using only HTML and CSS taught me a lot about how to construct HTML and using Flexbox to do responsive design.
 - What have you learned/improved?
